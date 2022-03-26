@@ -31,4 +31,8 @@ build/
 
 ### VS Code ###
 .vscode/
+<<<<<<< HEAD
 node_modules
+=======
+node_modules
+>>>>>>> 4f92902 (Commit)
